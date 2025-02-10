@@ -4,7 +4,7 @@
 
 These are some technologies that i actually know or trying to learn:
 
-[![Skills](https://skillicons.dev/icons?i=js,html,css,java,kotlin,md,nodejs,react,vite,mysql,mongodb,docker)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,html,css,java,kotlin,md,nodejs,react,vite,mysql,mongodb,docker&perline=4)](https://skillicons.dev)
 
 <!--
 **jvazmor497/jvazmor497** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
